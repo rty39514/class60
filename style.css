@@ -1,0 +1,22 @@
+.line{
+    background-color: #778f15;
+    height: 6.0px;
+    width: 60px;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+#apps{
+    height: 800px;
+    width: 100%;
+    background-color: #A2C513;
+}
+#games{
+    height: 800px;
+    width: 100%;
+    background-color: #68D995;
+}
+img:hover{
+    transform: scale(0.9)
+}
